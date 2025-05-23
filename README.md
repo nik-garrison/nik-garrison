@@ -5,7 +5,8 @@ Contact through LinkedIn for more info and references.
 I have professional leadership training in small unit operations as well as experience in planning, hosting, and conducting service events. I am a self-starter with the ability to take a project and see it through to fruition efficiently and in a timely manner with little to no supervision.
 
 My experience with computer systems is extensive. I can type upwards of 130 words per minute (WPM) with 98% accuracy, source and maintain computer hardware, as well as diagnose software and hardware issues for optimum performance.
-I am formally trained in a variety of software applications: Microsoft Word, Excel, and Access; coding languages such as Java (for Object-Oriented Programming), Python, and Ruby; Business Application Programming in Microsoft® Visual Basic®, HyperText Markup Language (HTML), CSS, as well as the Lua programming language. I am also proficient in Adobe Photoshop (image editing), DaVinci Resolve (video editing), Audacity (audio editing), Blender (3D modeling), and REAPER (Digital Audio Workspace).
+
+I am formally trained in a variety of software applications: Microsoft Word, Excel, and Access; coding languages such as Java (for Object-Oriented Programming), Python, Lua, and Ruby; Business Application Programming in Microsoft® Visual Basic® and MySQL; HyperText Markup Language (HTML), CSS. I am also proficient in Adobe Photoshop (image editing), DaVinci Resolve (video editing), Audacity (audio editing), Blender (3D modeling), and REAPER (Digital Audio Workspace).
 
 
 ## Certifications
