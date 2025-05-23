@@ -1,4 +1,4 @@
-# Nikolas D. Garrison
+# Resume, Nikolas D. Garrison
 
 Contact through LinkedIn for more info and references.
 
